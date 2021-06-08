@@ -4,7 +4,7 @@ The Redma Chat App is an application like a chat application, usually only its u
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+
 
 ```bash
 Example Code
@@ -22,4 +22,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-[Copyright - redma.my.id](https://redma.my.id/)
+[© 2021 Redma Std.](https://redma.my.id/)
