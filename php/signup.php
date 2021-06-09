@@ -19,7 +19,7 @@
                     $img_explode = explode('.', $img_name);
                     $img_ext = end($img_explode);
 
-                    $extensions = ['png',  'jpeg', 'jpg'];
+                    $extensions = ['png',  'jpeg', 'jpg', 'PNG', 'JPEG', 'JPG'];
                     if(in_array($img_ext, $extensions) === true){
                         $time = time();
                         $new_img_name = $time.$img_name;
